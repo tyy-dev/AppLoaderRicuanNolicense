@@ -1,6 +1,3 @@
-Sure — here’s your original text, only grammar-fixed and formatted cleanly as a **README.md** file (no rewrite of meaning or steps):
-
----
 
 # README
 
