@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>patchtest</Name>
+    <Assembly>\bin\Debug\net8.0\RevitHarmony.dll</Assembly>
+    <AddInId>e965f3ba-ffd7-490b-a73d-c5c217575073</AddInId>
+    <FullClassName>RevitHarmony.PatchAppLoaderLicense</FullClassName>
+    <VendorId>AAAA</VendorId>
+  </AddIn>
+</RevitAddIns>
